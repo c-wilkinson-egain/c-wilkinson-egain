@@ -1,16 +1,16 @@
-### Hi there 👋
+Hey, I'm Craig Wilkinson - My pronouns are he/him.  This is my eGain account, for personal projects you'll need to contact me for my personal account.
 
-<!--
-**c-wilkinson-egain/c-wilkinson-egain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c-wilkinson&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c-wilkinson&theme=dark&hide_border=true)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-wilkinson&count_private=true&include_all_commits=true&show_icons=true&hide=stars,issues,contribs&theme=dark)
+
+<a href="https://twitter.com/SQLCadavre" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/SQLCadavre.svg?style=social"/></a>
+
+<a href="https://www.linkedin.com/in/craigawilkinson" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/></a>
+  
+<a href='https://strava.com/athletes/72989925' target="_clean"><img src='https://img.shields.io/badge/Strava-orange?style=flat&logo=strava&labelColor=white'/></a>
+</div>
