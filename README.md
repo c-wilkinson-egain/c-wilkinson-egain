@@ -2,11 +2,11 @@ Hey, I'm Craig Wilkinson - My pronouns are he/him.  This is my eGain account, fo
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c-wilkinson&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c-wilkinson-egain&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c-wilkinson&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c-wilkinson-egain&theme=dark&hide_border=true)
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-wilkinson&count_private=true&include_all_commits=true&show_icons=true&hide=stars,issues,contribs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-wilkinson-egain&count_private=true&include_all_commits=true&show_icons=true&hide=stars,issues,contribs&theme=dark)
 
 <a href="https://twitter.com/SQLCadavre" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/SQLCadavre.svg?style=social"/></a>
 
