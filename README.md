@@ -1,4 +1,4 @@
-Hey, I'm Craig Wilkinson - My pronouns are he/him.  This is my eGain account, for personal projects you'll need to contact me for my personal account.
+Hey, I'm Craig Wilkinson - My pronouns are he/him.  This is my eGain corporate account, for personal projects you'll need to contact me for my personal account.
 
 <div align="center">
 
